@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "KRMM"]
 	path = KRMM
-	url = https://github.com/cran/KRMM
+	url = https://github.com/ljacquin/krmm
